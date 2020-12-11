@@ -5,14 +5,14 @@ var calling = [
     "Beach", 
     "Hey Hilan!", 
     "You are the bitch, like peace of sand in anakin's shoes", 
-    "Bye bitch!"
-    "I hate you in all realitis!"
-    "I think Dragon egg is game of shit"
-    "But Dragon egg have tasty egg"
-    "Dragon shit"
-    "ANakin don't play in dragon"
-    "Star Wars better Dragon age"
-    "Dragon socks be shit!"
+    "Bye bitch!",
+    "I hate you in all realities!",
+    "I think Dragon egg is game of shit",
+    "But Dragon egg have tasty egg",
+    "Dragon shit",
+    "Anakin don't play in dragon",
+    "Star Wars better Dragon age",
+    "Dragon socks be shit!",
     "I am KENOBIII! Hello there!"
 ];
 
